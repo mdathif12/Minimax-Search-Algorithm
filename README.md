@@ -104,6 +104,7 @@ end
 
 <h2>Program</h2>
 ```
+
 import time
 
 class Game:
